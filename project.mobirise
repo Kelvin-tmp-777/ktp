@@ -46,9 +46,24 @@
       }
     ],
     "imageResize": true,
-    "chatbutton": {},
+    "chatbutton": {
+      "phone": "+79673213377",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Здравствуйте!\n\nВведите сообщение и получите ответ на телефон! 📲\n",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Напишите нам в Whatsapp",
+      "placeholder": "Введите текст",
+      "zIndex": 10,
+      "enabled": true
+    },
     "favicon": false,
-    "mbrsiteDomain": "ldovppsp75",
+    "mbrsiteDomain": "mrbxkgqf1i",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -60,7 +75,8 @@
     "pwa-switcher": false,
     "uniqCompNum": 64,
     "versionPublish": "5.6.13",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
