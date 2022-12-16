@@ -63,7 +63,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "seipk3ptx7",
+    "mbrsiteDomain": "4q6hfdghoy",
     "cssOptimize": true,
     "lazyLoad": false,
     "robotsSwitcher": true,
@@ -83,7 +83,8 @@
       "name": "Приложение завода \"ЗТР\"",
       "icon": "@PROJECT_PATH@/assets/images/463-600-70x40-512x512.png",
       "themeColor": "#f7df67"
-    }
+    },
+    "global_after_body": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(91727476, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/91727476\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->"
   },
   "pages": {
     "transformatory.html": {
